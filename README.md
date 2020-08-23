@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50px">
 
 <!--
 **natayafs/natayafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
