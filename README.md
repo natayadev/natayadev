@@ -1,5 +1,3 @@
-<img src="https://github.com/natayafs/natayafs/blob/master/banner.png" width="700px">
-
 <!--**natayafs/natayafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
