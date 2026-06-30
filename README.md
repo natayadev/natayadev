@@ -2,7 +2,7 @@
 <h1 align="center">Hello World 👋, I'm Nataya</h1>
 <h3 align="left">Developer & data engineer</h3>
 
-I'm **Nataya Flores** (`@natayadev`), a data engineer from Argentina 🇦🇷.
+I'm **Nataya Flores** (`@natayadev`), a data engineer (+6 YoE) from Argentina 🇦🇷.
 
 I build with **Python, SQL, Docker, Spark, Azure/Fabric Cloud, Databricks and Airflow** with a background in Bioinformatics and Information Technologies.
 
